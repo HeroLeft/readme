@@ -22,10 +22,10 @@
 
 
 <a href="https://github.com/HeroLeft/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HeroLeft&repo=github-readme-stats&theme=vue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HeroLeft&repo=github-readme-stats&theme=buefy" />
 </a>
 <a href="https://github.com/HeroLeft/HeroLeft.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HeroLeft&repo=HeroLeft.github.io&theme=vue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HeroLeft&repo=HeroLeft.github.io&theme=buefy" />
 </a>
 
 <br />
