@@ -32,8 +32,8 @@
 <br />
 
 <a href="https://twitter.com/left_hero">
-  <img align="right" alt="HeroLeft | Twitter" width="21px" src="https://raw.githubusercontent.com/HeroLeft/HeroLeft/master/assets/twitter.svg" />
+  <img align="right" alt="HeroLeft | Twitter" width="21px" src="https://raw.githubusercontent.com/HeroLeft/readme/main/assets/twitter.svg" />
 </a>
 <a href="https://codesandbox.io/u/HeroLeft">
-  <img align="right" alt="HeroLeft | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/HeroLeft/HeroLeft/master/assets/codesandbox.svg" />
+  <img align="right" alt="HeroLeft | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/HeroLeft/readme/main/assets/codesandbox.svg" />
 </a>
