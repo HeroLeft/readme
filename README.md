@@ -26,3 +26,8 @@
 <a href="https://codesandbox.io/u/HeroLeft">
   <img align="right" alt="HeroLeft | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/HeroLeft/readme/main/assets/codesandbox.svg" />
 </a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heroleft&show_icons=true&locale=en&layout=compact" alt="heroleft" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=heroleft&show_icons=true&locale=en" alt="heroleft" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heroleft&" alt="heroleft" /></p>
