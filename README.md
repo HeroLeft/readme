@@ -1,4 +1,4 @@
-<p align="center"><a href="https://HeroLeft.github.io"><img width="80%" alt="Hello, I'm another. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://HeroLeft.github.io"><img width="25%" alt="Hello, I'm another. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
 
