@@ -27,4 +27,4 @@
   <img align="right" alt="HeroLeft | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/HeroLeft/readme/main/assets/codesandbox.svg" />
 </a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heroleft&theme=vue&hide_border=true" alt="heroleft" /></p>
-![Snake animation]( https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg )
+![Snake animation]( https://github.com/HeroLeft/HeroLeft/blob/output/github-contribution-grid-snake.svg )
