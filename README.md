@@ -17,17 +17,6 @@
 
 | <a href="https://github.com/HeroLeft/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HeroLeft&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="HeroLeft's github stats" /></a> | <a href="https://github.com/HeroLeft/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeroLeft&layout=compact&theme=vue&hide_border=true" /></a> |
 | ------------- | ------------- |
-
-#### Top Repositories
-
-
-<a href="https://github.com/HeroLeft/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HeroLeft&repo=github-readme-stats&theme=vue" />
-</a>
-<a href="https://github.com/HeroLeft/HeroLeft.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HeroLeft&repo=HeroLeft.github.io&theme=vue" />
-</a>
-
 <br />
 <br />
 
