@@ -26,4 +26,4 @@
 <a href="https://codesandbox.io/u/HeroLeft">
   <img align="right" alt="HeroLeft | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/HeroLeft/readme/main/assets/codesandbox.svg" />
 </a>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heroleft&" alt="heroleft" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heroleft&theme=vue&hide_border=true" alt="heroleft" /></p>
